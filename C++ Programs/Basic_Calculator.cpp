@@ -8,7 +8,7 @@ int main() {
     int sum; 
 
     cout << "\nEnter a number: " << endl; //standard print statement
-    cin >> x; //need to define input as cin >> {variable name}
+    cin >> x; //need to define input as cin >> {variable_name}
 
     cout << "\nEnter a second number: " << endl; //same prodecure as above
     cin >> y;
