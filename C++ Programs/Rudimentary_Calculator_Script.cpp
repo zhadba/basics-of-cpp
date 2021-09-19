@@ -15,7 +15,7 @@ int main () {
     int sum = x + y;
     int difference = x - y;
     int product = x * y;
-    float quotient = x / y;    
+    int quotient = x / y;    
 
     cout << "\nSum: " << sum << "\nDifference: " << difference << "\nProduct: " << product << "\nQuotient: " << quotient << endl;
 }
